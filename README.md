@@ -58,27 +58,16 @@ Machine Learning application for diabetes prediction using medical data.
 
 AI-powered personal finance management platform.
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kainatfatima0311&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kainatfatima0311&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Kainatfatima0311&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kainatfatima0311&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kainatfatima0311&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kainatfatima0311&theme=github-compact&hide_border=true"/>
-
-</p>
 
 ## 🌐 Connect With Me
 
