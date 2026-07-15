@@ -1,81 +1,109 @@
-# Hi, I'm Kainat Fatima 👋
+<p align="center">
+  <img src="./githubbanner.png" alt="Kainat Fatima Banner" width="100%">
+</p>
 
-### AI Engineer | Graphic Designer
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F5C542&center=true&vCenter=true&width=900&lines=AI+Engineer;Python+Developer;Graphic+Designer;Building+AI+Solutions+%26+Creative+Experiences" />
+</p>
 
-I’m a Computer Science student with a background in graphic design and a growing focus on Artificial Intelligence and Machine Learning.
+## 💛 About Me
 
-I enjoy combining creativity with technology to build practical solutions while sharing my learning journey through Python, AI, and software development.
+I'm passionate about building practical AI solutions while creating meaningful digital experiences through design and development.
 
----
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🐍 Building Python Projects
+- 💻 Full Stack Development
+- 🎨 Freelance Graphic Designer
+- 📚 Sharing Python & AI content
 
-## 🚀 Areas of Focus
+## 🛠 Tech Stack
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python
-- 📊 Data Science
-- 💻 Software Development
-- 📚 Data Structures & Algorithms
-- 🌐 Full-Stack Development
-- 🎨 Graphic Design
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,git,github,vscode"/>
 
-## 🛠️ Tech Stack
-
-### Languages
-
-- Python
-- JavaScript
-- C++
-- SQL
+</p>
 
 ### AI & Data
 
 - NumPy
 - Pandas
-- Scikit-learn *(Learning)*
-
-### Web Development
-
-- React
-- Node.js
-- Express.js
-- MongoDB
 
 ### Design
 
 - Adobe Photoshop
 - Adobe Illustrator
 - Canva
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Google Colab
-
----
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🐍 Python Beginner to Advanced
-A complete Python learning repository with notes, examples, and practice notebooks.
 
-### 💻 RIWAYA – MERN E-commerce & ERP
-A full-stack MERN application featuring an e-commerce storefront and ERP/admin panel.
-
-### 🤖 DiabetesAI
-A machine learning application for diabetes prediction using medical data.
+Complete Python learning repository with beginner-friendly notes, examples, and practice notebooks.
 
 ---
+
+### 💻 RIWAYA — MERN E-commerce & ERP
+
+Full-stack MERN application featuring inventory, warehouse, orders, payments, ERP, and admin dashboard.
+
+---
+
+### 🤖 DiabetesAI
+
+Machine Learning application for diabetes prediction using medical data.
+
+---
+
+### 💰 Financial Zen
+
+AI-powered personal finance management platform.
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kainatfatima0311&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kainatfatima0311&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kainatfatima0311&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kainatfatima0311&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ## 🌐 Connect With Me
 
-📧 Email: **kainatfatima0311@gmail.com**
+<p align="center">
 
-💼 LinkedIn:
-www.linkedin.com/in/kainat-fatima-655a00312
+<a href="https://www.linkedin.com/in/kainat-fatima-655a00312">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🎨 Behance:
-https://www.behance.net/_kainatfatima
+<a href="https://www.behance.net/_kainatfatima">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
+</a>
+
+<a href="mailto:kainatfatima0311@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+<div align="center">
+
+### 💛 Where Creativity Meets Artificial Intelligence
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
